@@ -14,6 +14,7 @@ Admin Panel Password: `1234`
 - Make a mock checkout page and add an order in the admin dashboard where you can change order status (pending, shipped, delivered, etc.)
 - Maybe add actual PayPal/Stripe integration.
 - Add auth/user login system using Django auth
+- Add staff RBAC to only modify product stock
 
 ### Project Goals & What I've Learned
 - Learn the fundamentals of Django (Models, Views, Templates, URLs).
